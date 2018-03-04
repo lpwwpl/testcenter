@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8">
+<updates>	
+	<component>		
+		<name>fangsoft_testcenter_client</name>		
+		<version>1.0</version>		
+		<path>lib/fangsoft_testcenter_client.jar</path>
+	</component>	
+	<component>		
+		<name>fangsoft_net</name>	
+		<version>1.0</version>		
+		<path>lib/fangsoft_net.jar</path>
+	</component>	
+	<component>	
+		<name>fangsoft_util</name>	
+		<version>1.0</version>		
+		<path>lib/fangsoft_util.jar</path>
+	</component>	
+	<component>		
+		<name>fangsoft_testcenter</name>	
+		<version>1.0</version>		
+		<path>lib/fangsoft_testcenter.jar</path>	
+	</component>
+</updates>
